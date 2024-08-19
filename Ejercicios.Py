@@ -275,6 +275,7 @@ gadget1.mostrar_informacion()
 print()
 gadget2.mostrar_informacion()
 
+print("---------------------------------------------")
 print("**** Ejercicio 5 ****")
 # Definición de la clase ClienteFinanciero
 class ClienteFinanciero:
